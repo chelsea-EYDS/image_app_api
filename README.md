@@ -10,7 +10,7 @@ See .env.example file for required env variables.
 
 Copy .env.example and provide the appropriate env vars 
 
-Run: (from project dir) `npm install` - must use yarn to work in the browser
+Run: (from project dir) `npm install` 
 
 Run: `Make run-local`
 
